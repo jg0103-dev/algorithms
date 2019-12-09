@@ -1,5 +1,5 @@
 import sys
-from stack.custom_stack import Stack
+from stack.bj_stack import Stack
 
 t_idx = 0
 v_idx = 1
